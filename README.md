@@ -1,6 +1,6 @@
 # Synopsis
 Script generates stats 
-{Persent of Null, Dummy list, PersOfNullsWithDummy, TypeInHive, Column Values, Column Size In MBytes}
+{Persent of Null, Dummy list, Persent of Null With Dummy, Type In Hive, Column Values, Column Size In MBytes}
 for pyspark dataframe by partition (50mln records size in each) based on features list and saves result to xls file.
 
 # Prerequisites
